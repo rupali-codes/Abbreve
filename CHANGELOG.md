@@ -1,4 +1,13 @@
-# 0.18.0 (2022-11-12)
+# [0.19.0](https://github.com/rupali-codes/Abbreve/compare/v0.18.0...v0.19.0) (2022-11-12)
+
+
+### Features
+
+* new abbreviation ([2484428](https://github.com/rupali-codes/Abbreve/commit/248442897e5d50c79ef407d2acca21c406f4d8cc))
+
+
+
+# [0.18.0](https://github.com/rupali-codes/Abbreve/compare/02df9204cd353cc16dcf636355e5d198d1e54e0b...v0.18.0) (2022-11-12)
 
 
 ### Bug Fixes
